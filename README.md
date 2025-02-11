@@ -63,7 +63,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any queries or suggestions:
 - **Email:** sanatansingh2002@gmail.com
-- **GitHub:** (https://github.com/utsav1632)
+- **GitHub:** https://github.com/utsav1632
 
 ---
 

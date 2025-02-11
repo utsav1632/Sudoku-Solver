@@ -1,6 +1,7 @@
 # Sudoku Solver
 
-A simple and interactive web application to solve Sudoku puzzles. This project allows users to input Sudoku puzzles and get the solution with a single click.
+A simple and interactive web application to solve Sudoku puzzles. 
+This project allows users to input Sudoku puzzles and get the solution with a single click.
 
 ## 🚀 Features
 

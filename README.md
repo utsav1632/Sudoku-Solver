@@ -19,7 +19,7 @@ A simple and interactive web application to solve Sudoku puzzles. This project a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/utsav1632/sudoku-solver.git
+   git clone https://github.com/utsav1632/sudoku-solver
    ```
 2. Navigate to the project folder:
    ```bash
